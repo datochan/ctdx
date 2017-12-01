@@ -1,4 +1,4 @@
-﻿﻿# CTDX README
+# CTDX README
 
 通达信基本功能的通讯封装。
 
