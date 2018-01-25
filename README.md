@@ -41,6 +41,7 @@ code, date, market, type, money,  price,  count,  rate
 ## 其它说明
 
 1. 本程序用到的股票交易日历是: `https://mall.datayes.com/datapreview/1293?lang=zh`
+2. 由于通联数据接口不再免费，增量日历数据通过工具生成: `https://github.com/datochan/SCGenerator`
 
 ## 代码示例
 
