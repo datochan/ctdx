@@ -2,6 +2,14 @@
 
 通达信基本功能的通讯封装。
 
+---
+
+### 2020/10/09 更新
+
+本仓库因违反了[github的DMCA规定](https://docs.github.com/articles/dmca-takedown-policy/), 清理敏感内容，保留仓库留念！
+
+---
+
 ### 目前已有的功能
 
 1. 获取A股股票、债券、基金等列表
